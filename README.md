@@ -7,6 +7,8 @@ Alterar configuração tsconfigRootDir em .eslintrc.cjs
 
 
 ####### Alterar CRLF para LF ########
+
+
 git config --global core.autocrlf false
 
  git rm --cached -r .
